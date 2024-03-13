@@ -14,3 +14,4 @@ The Jupyter Notebook contains the source codes and example. When you run BGMDS, 
 - [西 颯人, 浅見 泰司, 地理的制約条件に基づく統計的多次元尺度構成法, 都市計画論文集, 2019, 54 巻, 3 号, p. 826-832](https://doi.org/10.11361/journalcpij.54.826)
 
 - [Hayato Nishi and Yasushi Asami, *Bayesian Geographical Multi-Dimensional Scaling*, Abstract on International Cartographic Conference, Tokyo (2019)](http://home.hol.is.uec.ac.jp/icc2019papers/all/756.pdf)
+- [Nishi, H., \& Asami, Y. (2024). Statistical Multi-dimensional Scaling with a Geographical Penalty. In Y. Asami, Y. Sadahiro, I. Yamada, \& K. Hino (Eds.), Studies in Housing and Urban Analysis in Japan (pp. 153–168). Springer Nature](https://doi.org/10.1007/978-981-99-8027-7_9)
